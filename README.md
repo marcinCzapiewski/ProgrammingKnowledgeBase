@@ -7,3 +7,4 @@ This repository is supposed to help me aggregate and browse through interesing l
 
 ## Performance
 * https://michaelscodingspot.com/performance-problems-in-csharp-dotnet
+* https://devstyle.pl/2018/09/24/orm-vs-sql/
