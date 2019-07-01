@@ -12,6 +12,10 @@ This repository is supposed to help me aggregate and browse through interesing l
 ## ASP.NET CORE 
 ### How to implement QR code generator 
 * https://www.freecodecamp.org/news/how-to-easily-implement-qrcoder-in-asp-net-core-using-c-10c4aa857e84/
+### Dependency Injection Best Practices
+* https://medium.com/volosoft/asp-net-core-dependency-injection-best-practices-tips-tricks-c6e9c67f9d96
+### Microservices API Gateways — Ocelot for .NET Core + Video
+* https://medium.com/hypertrends/microservices-api-gateways-ocelot-for-net-core-video-8bbd4ed3be8f
 
 # HTML + CSS + JS
 ### Transitions explained:
@@ -28,6 +32,8 @@ This repository is supposed to help me aggregate and browse through interesing l
 * https://www.freecodecamp.org/news/cjn-google-sheets-as-json-endpoint/
 ### How to create a Facebook messenger bot for your page
 * https://www.freecodecamp.org/news/how-to-create-a-facebook-messenger-bot-for-your-page-3be12ca18de5/
+### How to set up two factor authentication in ASP.NET Core using Google Authenticator
+* https://medium.com/free-code-camp/how-to-set-up-two-factor-authentication-on-asp-net-core-using-google-authenticator-4b15d0698ec9
 
 
 # Courses 
