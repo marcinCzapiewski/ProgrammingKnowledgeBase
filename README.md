@@ -1,6 +1,8 @@
 # ProgrammingKnowledgeBase
 This repository is supposed to help me aggregate and browse through interesing links (articles mainly) I come across on daily basis, so I can easily come back to them when they might come in handy.
 
+Please feel free to contribute by creating a pull request ;) 
+
 # .NET
 ## Visual Studio
 * https://devblogs.microsoft.com/visualstudio/visual-studio-tips-and-tricks
