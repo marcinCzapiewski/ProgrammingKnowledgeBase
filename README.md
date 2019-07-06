@@ -6,6 +6,8 @@ Please feel free to contribute by creating a pull request ;)
 # .NET
 ## C#
 * https://kudchikarsk.com/null-coalescing-operator-csharp
+### What's new in C#8
+* http://www.developer.net.pl/programowanie/c-8/
 
 ## Visual Studio
 * https://devblogs.microsoft.com/visualstudio/visual-studio-tips-and-tricks
