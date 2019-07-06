@@ -1,9 +1,12 @@
 # ProgrammingKnowledgeBase
 This repository is supposed to help me aggregate and browse through interesing links (articles mainly) I come across on daily basis, so I can easily come back to them when they might come in handy.
 
-Please feel free to contribute by creating a pull request ;) 
+Please feel free to contribute by creating a pull request ;)
 
 # .NET
+## C#
+* https://kudchikarsk.com/null-coalescing-operator-csharp
+
 ## Visual Studio
 * https://devblogs.microsoft.com/visualstudio/visual-studio-tips-and-tricks
 
@@ -20,6 +23,12 @@ Please feel free to contribute by creating a pull request ;)
 * https://medium.com/hypertrends/microservices-api-gateways-ocelot-for-net-core-video-8bbd4ed3be8f
 ### How to set up two factor authentication in ASP.NET Core using Google Authenticator
 * https://medium.com/free-code-camp/how-to-set-up-two-factor-authentication-on-asp-net-core-using-google-authenticator-4b15d0698ec9
+
+## Cryptography
+* https://www.meziantou.net/cryptography-in-dotnet.htm
+
+## Others
+* https://dotnetcoretutorials.com/2019/06/20/publishing-a-single-exe-file-in-net-core-3-0
 
 # HTML + CSS + JS
 ### Transitions explained:
