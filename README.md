@@ -42,13 +42,17 @@ Please feel free to contribute by creating a pull request ;)
 ### CSS Flex – Animated Tutorial
 * https://www.freecodecamp.org/news/the-complete-flex-animated-tutorial/
 
-# General Web stuff
+# Web
+## Web architecture
+* https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+## HTTP
+* https://sekurak.pl/protokol-http-podstawy/
+* https://sekurak.pl/protokol-http-2-czyli-szybciej-ale-czy-rowniez-bezpieczniej/
+# Others
 ### How to use Google Sheets as a JSON Endpoint
 * https://www.freecodecamp.org/news/cjn-google-sheets-as-json-endpoint/
 ### How to create a Facebook messenger bot for your page
 * https://www.freecodecamp.org/news/how-to-create-a-facebook-messenger-bot-for-your-page-3be12ca18de5/
-### Web architecture
-* https://engineering.videoblocks.com/web-architecture-101-a3224e126947
 
 # Courses 
 ### Webpack course
