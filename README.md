@@ -15,6 +15,8 @@ Please feel free to contribute by creating a pull request ;)
 ## Performance
 * https://michaelscodingspot.com/performance-problems-in-csharp-dotnet
 * https://devstyle.pl/2018/09/24/orm-vs-sql/
+* https://mariusgundersen.net/type-dictionary-trick/
+* https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guidA
 
 ## ASP.NET CORE 
 ### How to implement QR code generator 
@@ -31,6 +33,9 @@ Please feel free to contribute by creating a pull request ;)
 
 ## Others
 * https://dotnetcoretutorials.com/2019/06/20/publishing-a-single-exe-file-in-net-core-3-0
+
+## Design patterns
+* https://michaelscodingspot.com/pipeline-pattern-implementations-csharp
 
 # HTML + CSS + JS
 ### Transitions explained:
