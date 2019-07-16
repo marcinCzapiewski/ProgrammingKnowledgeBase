@@ -4,9 +4,13 @@ This repository is supposed to help me aggregate and browse through interesing l
 Please feel free to contribute by creating a pull request ;)
 
 # .NET
+### Future of .NET (.NET 5)
+* https://msdn.microsoft.com/en-us/magazine/mt833477.aspx
+* https://medium.com/capgemini-dynamics-365-team/future-of-net-net-5-microsoft-build-2019-from-a-net-developer-point-of-view-7a1158fb0691
+
 ## C#
 * https://kudchikarsk.com/null-coalescing-operator-csharp
-### What's new in C#8
+### What's new in C# 8
 * http://www.developer.net.pl/programowanie/c-8/
 
 ## Visual Studio
@@ -17,6 +21,7 @@ Please feel free to contribute by creating a pull request ;)
 * https://devstyle.pl/2018/09/24/orm-vs-sql/
 * https://mariusgundersen.net/type-dictionary-trick/
 * https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guidA
+* https://dotnettips.wordpress.com/2019/07/08/performance-tip-for-vs-foreach-in-microsoft-net/
 
 ## ASP.NET CORE 
 ### How to implement QR code generator 
