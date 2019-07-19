@@ -58,11 +58,14 @@ Please feel free to contribute by creating a pull request ;)
 ## HTTP
 * https://sekurak.pl/protokol-http-podstawy/
 * https://sekurak.pl/protokol-http-2-czyli-szybciej-ale-czy-rowniez-bezpieczniej/
+
 # Others
 ### How to use Google Sheets as a JSON Endpoint
 * https://www.freecodecamp.org/news/cjn-google-sheets-as-json-endpoint/
 ### How to create a Facebook messenger bot for your page
 * https://www.freecodecamp.org/news/how-to-create-a-facebook-messenger-bot-for-your-page-3be12ca18de5/
+### Zabbix intro
+* https://sekurak.pl/czym-jest-zabbix-podstawy-konfiguracji/
 
 # Courses 
 ### Webpack course
