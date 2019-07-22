@@ -38,6 +38,8 @@ Please feel free to contribute by creating a pull request ;)
 
 ## Others
 * https://dotnetcoretutorials.com/2019/06/20/publishing-a-single-exe-file-in-net-core-3-0
+* https://devblogs.microsoft.com/dotnet/write-better-code-faster-with-roslyn-analyzers/
+* http://underscorehao.net/2019/07/auto-refreshing-cache-in-dotnet/
 
 ## Design patterns
 * https://michaelscodingspot.com/pipeline-pattern-implementations-csharp
