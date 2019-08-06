@@ -33,13 +33,19 @@ Please feel free to contribute by creating a pull request ;)
 ### How to set up two factor authentication in ASP.NET Core using Google Authenticator
 * https://medium.com/free-code-camp/how-to-set-up-two-factor-authentication-on-asp-net-core-using-google-authenticator-4b15d0698ec9
 
+
 ## Cryptography
 * https://www.meziantou.net/cryptography-in-dotnet.htm
+
+## Testing
+* https://cezarypiatek.github.io/post/effective-mocking/
+* https://www.codeproject.com/Articles/5163223/Test-Driven-Development-In-Csharp
 
 ## Others
 * https://dotnetcoretutorials.com/2019/06/20/publishing-a-single-exe-file-in-net-core-3-0
 * https://devblogs.microsoft.com/dotnet/write-better-code-faster-with-roslyn-analyzers/
 * http://underscorehao.net/2019/07/auto-refreshing-cache-in-dotnet/
+* https://devblogs.microsoft.com/aspnet/httprepl-a-command-line-tool-for-interacting-with-restful-http-services/
 
 ## Design patterns
 * https://michaelscodingspot.com/pipeline-pattern-implementations-csharp
