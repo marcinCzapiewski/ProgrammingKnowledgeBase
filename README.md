@@ -10,11 +10,15 @@ Please feel free to contribute by creating a pull request ;)
 
 ## C#
 * https://kudchikarsk.com/null-coalescing-operator-csharp
-### What's new in C# 8
+
+### What's new in C# 8/.NET 3.0
 * http://www.developer.net.pl/programowanie/c-8/
+* https://dev.to/dotnet/what-s-the-big-deal-with-iasyncenumerable-t-in-net-core-3-1eii
+* https://devblogs.microsoft.com/dotnet/try-out-nullable-reference-types
 
 ## Visual Studio
 * https://devblogs.microsoft.com/visualstudio/visual-studio-tips-and-tricks
+* https://kudchikarsk.com/memory-leak-c
 
 ## Performance
 * https://michaelscodingspot.com/performance-problems-in-csharp-dotnet
@@ -46,6 +50,7 @@ Please feel free to contribute by creating a pull request ;)
 * https://devblogs.microsoft.com/dotnet/write-better-code-faster-with-roslyn-analyzers/
 * http://underscorehao.net/2019/07/auto-refreshing-cache-in-dotnet/
 * https://devblogs.microsoft.com/aspnet/httprepl-a-command-line-tool-for-interacting-with-restful-http-services/
+* https://michaelscodingspot.com/debugging-exceptions
 
 ## Design patterns
 * https://michaelscodingspot.com/pipeline-pattern-implementations-csharp
