@@ -4,14 +4,14 @@ This repository is supposed to help me aggregate and browse through interesing l
 Please feel free to contribute by creating a pull request ;)
 
 # .NET
-### Future of .NET (.NET 5)
+## Future of .NET (.NET 5)
 * https://msdn.microsoft.com/en-us/magazine/mt833477.aspx
 * https://medium.com/capgemini-dynamics-365-team/future-of-net-net-5-microsoft-build-2019-from-a-net-developer-point-of-view-7a1158fb0691
 
 ## C#
 * https://kudchikarsk.com/null-coalescing-operator-csharp
 
-### What's new in C# 8/.NET 3.0
+## What's new in C# 8/.NET 3.0
 * http://www.developer.net.pl/programowanie/c-8/
 * https://dev.to/dotnet/what-s-the-big-deal-with-iasyncenumerable-t-in-net-core-3-1eii
 * https://devblogs.microsoft.com/dotnet/try-out-nullable-reference-types
@@ -26,6 +26,7 @@ Please feel free to contribute by creating a pull request ;)
 * https://mariusgundersen.net/type-dictionary-trick/
 * https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guidA
 * https://dotnettips.wordpress.com/2019/07/08/performance-tip-for-vs-foreach-in-microsoft-net/
+* https://medium.com/@alexyakunin/geting-4x-speedup-with-net-core-3-0-simd-intrinsics-5c9c31c47991
 
 ## ASP.NET CORE 
 ### How to implement QR code generator 
@@ -37,13 +38,13 @@ Please feel free to contribute by creating a pull request ;)
 ### How to set up two factor authentication in ASP.NET Core using Google Authenticator
 * https://medium.com/free-code-camp/how-to-set-up-two-factor-authentication-on-asp-net-core-using-google-authenticator-4b15d0698ec9
 
-
 ## Cryptography
 * https://www.meziantou.net/cryptography-in-dotnet.htm
 
 ## Testing
 * https://cezarypiatek.github.io/post/effective-mocking/
 * https://www.codeproject.com/Articles/5163223/Test-Driven-Development-In-Csharp
+* https://indexoutofrange.com/Stop-trying-to-mock-the-ILogger-methods
 
 ## Others
 * https://dotnetcoretutorials.com/2019/06/20/publishing-a-single-exe-file-in-net-core-3-0
@@ -51,6 +52,7 @@ Please feel free to contribute by creating a pull request ;)
 * http://underscorehao.net/2019/07/auto-refreshing-cache-in-dotnet/
 * https://devblogs.microsoft.com/aspnet/httprepl-a-command-line-tool-for-interacting-with-restful-http-services/
 * https://michaelscodingspot.com/debugging-exceptions
+* https://michaelscodingspot.com/logging-in-dotnet
 
 ## Design patterns
 * https://michaelscodingspot.com/pipeline-pattern-implementations-csharp
