@@ -10,6 +10,7 @@ Please feel free to contribute by creating a pull request ;)
 
 ## C#
 * https://kudchikarsk.com/null-coalescing-operator-csharp
+* https://blog.pipe01.me/2019/08/conditionalweaktable-what-does-it-do.html
 
 ## What's new in C# 8/.NET 3.0
 * http://www.developer.net.pl/programowanie/c-8/
@@ -46,13 +47,17 @@ Please feel free to contribute by creating a pull request ;)
 * https://www.codeproject.com/Articles/5163223/Test-Driven-Development-In-Csharp
 * https://indexoutofrange.com/Stop-trying-to-mock-the-ILogger-methods
 
+## Debugging
+* https://raygun.com/blog/dot-net-debugging/
+* https://michaelscodingspot.com/debugging-exceptions
+
 ## Others
 * https://dotnetcoretutorials.com/2019/06/20/publishing-a-single-exe-file-in-net-core-3-0
 * https://devblogs.microsoft.com/dotnet/write-better-code-faster-with-roslyn-analyzers/
 * http://underscorehao.net/2019/07/auto-refreshing-cache-in-dotnet/
 * https://devblogs.microsoft.com/aspnet/httprepl-a-command-line-tool-for-interacting-with-restful-http-services/
-* https://michaelscodingspot.com/debugging-exceptions
 * https://michaelscodingspot.com/logging-in-dotnet
+* https://cezarypiatek.github.io/post/avoid-multithreading-traps-p1
 
 ## Design patterns
 * https://michaelscodingspot.com/pipeline-pattern-implementations-csharp
