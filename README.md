@@ -28,6 +28,8 @@ Please feel free to contribute by creating a pull request ;)
 * https://www.stevejgordon.co.uk/using-high-performance-dotnetcore-csharp-techniques-to-base64-encode-a-guidA
 * https://dotnettips.wordpress.com/2019/07/08/performance-tip-for-vs-foreach-in-microsoft-net/
 * https://medium.com/@alexyakunin/geting-4x-speedup-with-net-core-3-0-simd-intrinsics-5c9c31c47991
+* https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c
+* https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html
 
 ## ASP.NET CORE 
 ### How to implement QR code generator 
@@ -58,9 +60,12 @@ Please feel free to contribute by creating a pull request ;)
 * https://devblogs.microsoft.com/aspnet/httprepl-a-command-line-tool-for-interacting-with-restful-http-services/
 * https://michaelscodingspot.com/logging-in-dotnet
 * https://cezarypiatek.github.io/post/avoid-multithreading-traps-p1
+* https://kudchikarsk.com/tasks-in-csharp/async-await-c/
+* https://github.com/Tyrrrz/CliFx
 
 ## Design patterns
 * https://michaelscodingspot.com/pipeline-pattern-implementations-csharp
+* https://github.com/kgrzybek/modular-monolith-with-ddd
 
 # HTML + CSS + JS
 ### Transitions explained:
