@@ -66,7 +66,7 @@ Please feel free to contribute by creating a pull request ;)
 ## Design patterns
 * https://michaelscodingspot.com/pipeline-pattern-implementations-csharp
 * https://github.com/kgrzybek/modular-monolith-with-ddd
-
+* https://www.dofactory.com/net/design-patterns
 # HTML + CSS + JS
 ### Transitions explained:
 * https://www.freecodecamp.org/news/css-transitions-explained-d67ab9a02049/
