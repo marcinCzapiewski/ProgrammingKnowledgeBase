@@ -48,6 +48,7 @@ Please feel free to contribute by creating a pull request ;)
 * https://cezarypiatek.github.io/post/effective-mocking/
 * https://www.codeproject.com/Articles/5163223/Test-Driven-Development-In-Csharp
 * https://indexoutofrange.com/Stop-trying-to-mock-the-ILogger-methods
+* https://dariuszwozniak.net/posts/kurs-tdd-19-mock-stub-fake-spy-dummy
 
 ## Debugging
 * https://raygun.com/blog/dot-net-debugging/
