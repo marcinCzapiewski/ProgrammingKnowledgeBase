@@ -30,6 +30,10 @@ Please feel free to contribute by creating a pull request ;)
 * https://medium.com/@alexyakunin/geting-4x-speedup-with-net-core-3-0-simd-intrinsics-5c9c31c47991
 * https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c
 * https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html
+* **Pipes** https://habr.com/en/post/466137/
+
+### Hardware-based optimalization
+* https://devblogs.microsoft.com/dotnet/hardware-intrinsics-in-net-core/
 
 ## ASP.NET CORE 
 ### How to implement QR code generator 
@@ -49,6 +53,7 @@ Please feel free to contribute by creating a pull request ;)
 * https://www.codeproject.com/Articles/5163223/Test-Driven-Development-In-Csharp
 * https://indexoutofrange.com/Stop-trying-to-mock-the-ILogger-methods
 * https://dariuszwozniak.net/posts/kurs-tdd-19-mock-stub-fake-spy-dummy
+* https://blog.stevensanderson.com/2019/08/29/blazor-unit-testing-prototype/
 
 ## Debugging
 * https://raygun.com/blog/dot-net-debugging/
