@@ -11,6 +11,9 @@ Please feel free to contribute by creating a pull request ;)
 ## C#
 * https://kudchikarsk.com/null-coalescing-operator-csharp
 * https://blog.pipe01.me/2019/08/conditionalweaktable-what-does-it-do.html
+* https://kudchikarsk.com/tasks-in-csharp/task-parallelism-c/
+* https://kudchikarsk.com/tasks-in-csharp/async-await-c/
+* https://cezarypiatek.github.io/post/avoid-multithreading-traps-p1
 
 ## What's new in C# 8/.NET 3.0
 * http://www.developer.net.pl/programowanie/c-8/
@@ -31,6 +34,7 @@ Please feel free to contribute by creating a pull request ;)
 * https://medium.com/asos-techblog/maximising-net-core-api-performance-11ad883436c
 * https://blog.marcgravell.com/2019/08/prefer-valuetask-to-task-always-and.html
 * **Pipes** https://habr.com/en/post/466137/
+* https://michaelscodingspot.com/performance-counters/
 
 ### Hardware-based optimalization
 * https://devblogs.microsoft.com/dotnet/hardware-intrinsics-in-net-core/
@@ -65,9 +69,8 @@ Please feel free to contribute by creating a pull request ;)
 * http://underscorehao.net/2019/07/auto-refreshing-cache-in-dotnet/
 * https://devblogs.microsoft.com/aspnet/httprepl-a-command-line-tool-for-interacting-with-restful-http-services/
 * https://michaelscodingspot.com/logging-in-dotnet
-* https://cezarypiatek.github.io/post/avoid-multithreading-traps-p1
-* https://kudchikarsk.com/tasks-in-csharp/async-await-c/
 * https://github.com/Tyrrrz/CliFx
+* https://www.mnie.me/2019-09-02-appInsightsLogging/
 
 ## Design patterns
 * https://michaelscodingspot.com/pipeline-pattern-implementations-csharp
