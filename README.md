@@ -23,6 +23,7 @@ Please feel free to contribute by creating a pull request ;)
 ## Visual Studio
 * https://devblogs.microsoft.com/visualstudio/visual-studio-tips-and-tricks
 * https://kudchikarsk.com/memory-leak-c
+* https://devblogs.microsoft.com/visualstudio/refactoring-made-easy-with-intellicode/
 
 ## Performance
 * https://michaelscodingspot.com/performance-problems-in-csharp-dotnet
