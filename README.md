@@ -72,6 +72,7 @@ Please feel free to contribute by creating a pull request ;)
 * https://michaelscodingspot.com/logging-in-dotnet
 * https://github.com/Tyrrrz/CliFx
 * https://www.mnie.me/2019-09-02-appInsightsLogging/
+* https://jimbuck.io/building-desktop-apps-with-blazor/
 
 ## Design patterns
 * https://michaelscodingspot.com/pipeline-pattern-implementations-csharp
