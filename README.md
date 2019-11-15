@@ -78,6 +78,7 @@ Please feel free to contribute by creating a pull request ;)
 * https://michaelscodingspot.com/pipeline-pattern-implementations-csharp
 * https://github.com/kgrzybek/modular-monolith-with-ddd
 * https://www.dofactory.com/net/design-patterns
+* https://apiumhub.com/tech-blog-barcelona/the-circuit-breaker-pattern
 # HTML + CSS + JS
 ### Transitions explained:
 * https://www.freecodecamp.org/news/css-transitions-explained-d67ab9a02049/
@@ -94,6 +95,8 @@ Please feel free to contribute by creating a pull request ;)
 ## HTTP
 * https://sekurak.pl/protokol-http-podstawy/
 * https://sekurak.pl/protokol-http-2-czyli-szybciej-ale-czy-rowniez-bezpieczniej/
+## OAuth and OpenID
+* https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
 
 # Others
 ### How to use Google Sheets as a JSON Endpoint
