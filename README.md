@@ -14,6 +14,7 @@ Please feel free to contribute by creating a pull request ;)
 * https://kudchikarsk.com/tasks-in-csharp/task-parallelism-c/
 * https://kudchikarsk.com/tasks-in-csharp/async-await-c/
 * https://cezarypiatek.github.io/post/avoid-multithreading-traps-p1
+* https://www.thecodepainter.co.uk/blog/2019113/hackingcsharp_arrayadjust
 
 ## What's new in C# 8/.NET 3.0
 * http://www.developer.net.pl/programowanie/c-8/
