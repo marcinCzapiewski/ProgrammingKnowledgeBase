@@ -21,6 +21,9 @@ Please feel free to contribute by creating a pull request ;)
 * https://dev.to/dotnet/what-s-the-big-deal-with-iasyncenumerable-t-in-net-core-3-1eii
 * https://devblogs.microsoft.com/dotnet/try-out-nullable-reference-types
 
+## Blazor/Wasm
+* https://www.linkedin.com/pulse/why-blazor-via-webassembly-future-akash-limbani/
+
 ## Visual Studio
 * https://devblogs.microsoft.com/visualstudio/visual-studio-tips-and-tricks
 * https://kudchikarsk.com/memory-leak-c
@@ -53,6 +56,8 @@ Please feel free to contribute by creating a pull request ;)
 
 ## Cryptography
 * https://www.meziantou.net/cryptography-in-dotnet.htm
+### Problem with creating X509Certificate2 with new keyword
+* https://snede.net/the-most-dangerous-constructor-in-net
 
 ## Testing
 * https://cezarypiatek.github.io/post/effective-mocking/
