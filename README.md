@@ -98,11 +98,14 @@ Please feel free to contribute by creating a pull request ;)
 # Web
 ## Web architecture
 * https://engineering.videoblocks.com/web-architecture-101-a3224e126947
+* https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html
 ## HTTP
 * https://sekurak.pl/protokol-http-podstawy/
 * https://sekurak.pl/protokol-http-2-czyli-szybciej-ale-czy-rowniez-bezpieczniej/
 ## OAuth and OpenID
 * https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+
+* https://www.andrew-best.com/posts/learn-auth-the-hard-way-part-one/
 
 # Others
 ### How to use Google Sheets as a JSON Endpoint
