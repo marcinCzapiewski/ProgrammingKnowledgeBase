@@ -85,6 +85,8 @@ Please feel free to contribute by creating a pull request ;)
 * https://github.com/kgrzybek/modular-monolith-with-ddd
 * https://www.dofactory.com/net/design-patterns
 * https://apiumhub.com/tech-blog-barcelona/the-circuit-breaker-pattern
+* https://www.gustavwengel.dk/csharp-static-factory-vs-constructor
+
 # HTML + CSS + JS
 ### Transitions explained:
 * https://www.freecodecamp.org/news/css-transitions-explained-d67ab9a02049/
