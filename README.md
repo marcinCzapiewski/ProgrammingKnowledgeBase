@@ -116,6 +116,8 @@ Please feel free to contribute by creating a pull request ;)
 * https://www.freecodecamp.org/news/how-to-create-a-facebook-messenger-bot-for-your-page-3be12ca18de5/
 ### Zabbix intro
 * https://sekurak.pl/czym-jest-zabbix-podstawy-konfiguracji/
+### Building a simple SQLite clone in C from a scratch
+* https://cstack.github.io/db_tutorial/
 
 # Courses 
 ### Webpack course
