@@ -65,6 +65,7 @@ Please feel free to contribute by creating a pull request ;)
 * https://indexoutofrange.com/Stop-trying-to-mock-the-ILogger-methods
 * https://dariuszwozniak.net/posts/kurs-tdd-19-mock-stub-fake-spy-dummy
 * https://blog.stevensanderson.com/2019/08/29/blazor-unit-testing-prototype/
+* Testing/mocking ILogger https://christianfindlay.com/2020/07/03/ilogger/
 
 ## Debugging
 * https://raygun.com/blog/dot-net-debugging/
